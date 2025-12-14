@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "store-scraper": {
+      "command": "node",
+      "args": ["/absolute/path/to/store-scraper-mcp/src/server.js"],
+      "cwd": "/absolute/path/to/store-scraper-mcp"
+    }
+  }
+}
+
